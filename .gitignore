@@ -1,0 +1,8 @@
+
+
+vendor/
+acess_log
+error_log
+composer.phar
+
+config/env.php
